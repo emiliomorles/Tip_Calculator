@@ -11,5 +11,5 @@ Year: 2023
 - Data Types ✔️
 - Numbers ✔️
 - Operations ✔️
-- Type COnversion ✔️
+- Type Conversion ✔️
 - f-Strings ✔️
